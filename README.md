@@ -15,5 +15,3 @@
 **Build app for production**
 
     yarn build
-
-
